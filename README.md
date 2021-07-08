@@ -11,9 +11,8 @@ Accepts a config of the form:
 
 R 1000 1000
 
-Resolution
 
-|   More values for your monitor can be set. In this case, the resolution will be adjusted to the maximum resolution of your monitor.|
+| Resolution. More values for your monitor can be set. In this case, the resolution will be adjusted to the maximum resolution of your monitor.|
 
 A 0.1   255,255,255
 
