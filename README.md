@@ -1,5 +1,6 @@
 # MiniRT
 A minimal raytracing engine wrote in C and MiniLibX
+
 Ready configuration files are in the scenes directory!
 Switch between camera using the TAB key.
 
