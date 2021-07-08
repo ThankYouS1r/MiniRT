@@ -8,6 +8,7 @@ Switch between camera using the TAB key.
 <img width="904" alt="Screen Shot 2021-07-08 at 10 07 27 AM" src="https://user-images.githubusercontent.com/42047633/124878533-e00de580-dfd4-11eb-9290-631e831cb37f.png">
 
 Accepts a config of the form:
+
 R 1000 1000 | Resolution. More values for your monitor can be set. In this case, the resolution will be adjusted to the maximum resolution of your monitor.
 
 A 0.1   255,255,255 | Ambient light. 0.1 - light intensity (Сan be set up to 1.0). 255.255.255 - The palette allowed in the RGB scene (each color can be up to 255)
