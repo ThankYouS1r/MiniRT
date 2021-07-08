@@ -15,15 +15,15 @@ R 1000 1000
 
 A 0.1   255,255,255
 
-|Ambient light. 0.1 - light intensity (Сan be set up to 1.0). 255.255.255 - The palette allowed in the RGB scene (each color can be up to 255)|
+|   Ambient light. 0.1 - light intensity (Сan be set up to 1.0). 255.255.255 - The palette allowed in the RGB scene (each color can be up to 255)   |
 
 c 0,0,100 0,0,-1 120
 
-|Camera set up. 0,0,100 - camera position. 0,0,-1 - camera normal (1/-1 max). 120 - FOV (180 max)|
+|   Camera set up. 0,0,100 - camera position. 0,0,-1 - camera normal (1/-1 max). 120 - FOV (180 max)   |
 
 c 0,0,100 1,0,-1 120
 
-|Camera can be several of them in a scene. If there are several of them, then you can switch between them using the TAB key.|
+|   Camera can be several of them in a scene. If there are several of them, then you can switch between them using the TAB key.   |
 
 c 0,0,100 -1,0,-1 120
 
@@ -33,16 +33,16 @@ c 0,0,100 0,1,-1 120
 
 l 300,0,500 1 255,255,255
 
-|light. 300,0,500 - position of light. 1 - light intensity (1 max). 255.255.255 - RGB color of light|
+|   light. 300,0,500 - position of light. 1 - light intensity (1 max). 255.255.255 - RGB color of light   |
 
 sp 0.0,0.0,0 40 50,255,0
 
-|Sphere object. 0.0,0.0,0 - Sphere center position. 40 - sphere diameter. 50,255,0 - RGB color of light|
+|   Sphere object. 0.0,0.0,0 - Sphere center position. 40 - sphere diameter. 50,255,0 - RGB color of light   |
 
 sq 0,0,-50 0,0,1 3000 255,255,255
 
-|Square object. 0.0,0.0,-50 - Square center position. 0,0,1 - normal square. 3000 - side length. 255,255,255 - RGB color of light|
+|   Square object. 0.0,0.0,-50 - Square center position. 0,0,1 - normal square. 3000 - side length. 255,255,255 - RGB color of light   |
 
 cy 0,0,0 0,1,0 30 50 0,0,255
 
-|Cylinder object. 0.0,0.0,0 - Cylinder center position. 0,0,1 - normal cylinder. 30 - cylinder height. 50 - cylinder diameter. 0,0,255 - RGB color of light|
+|   Cylinder object. 0.0,0.0,0 - Cylinder center position. 0,0,1 - normal cylinder. 30 - cylinder height. 50 - cylinder diameter. 0,0,255 - RGB color of light   |
