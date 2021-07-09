@@ -2,7 +2,7 @@
 A minimal raytracing engine wrote in C and MiniLibX
 
 Ready configuration files are in the scenes directory!
-Switch between camera using the TAB key.
+If several cameras are specified in the config switch between camera using the TAB key.
 
 <img width="994" alt="Screen Shot 2021-07-08 at 9 56 21 AM" src="https://user-images.githubusercontent.com/42047633/124878518-dd12f500-dfd4-11eb-94c7-c7e3c10ecb72.png">
 <img width="904" alt="Screen Shot 2021-07-08 at 10 07 27 AM" src="https://user-images.githubusercontent.com/42047633/124878533-e00de580-dfd4-11eb-9290-631e831cb37f.png">
